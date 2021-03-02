@@ -3,7 +3,8 @@
 	url = https://github.com/opensemanticsearch/solr-php-ui.git
 [submodule "src/open-semantic-etl"]
 	path = src/open-semantic-etl
-	url = https://github.com/opensemanticsearch/open-semantic-etl.git
+	#forked repo
+	url = https://github.com/jazzdup/open-semantic-etl.git
 [submodule "src/solr-ontology-tagger"]
 	path = src/solr-ontology-tagger
 	url = https://github.com/opensemanticsearch/solr-ontology-tagger.git

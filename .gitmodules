@@ -13,7 +13,7 @@
 	url = https://github.com/opensemanticsearch/open-semantic-visual-graph-explorer.git
 [submodule "src/open-semantic-search-apps"]
 	path = src/open-semantic-search-apps
-	url = https://github.com/opensemanticsearch/open-semantic-search-apps.git
+	url = https://github.com/jazzdup/open-semantic-search-apps.git
 [submodule "src/open-semantic-entity-search-api"]
 	path = src/open-semantic-entity-search-api
 	url = https://github.com/opensemanticsearch/open-semantic-entity-search-api.git
